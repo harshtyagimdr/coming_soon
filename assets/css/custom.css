@@ -1,0 +1,137 @@
+/*
+ * author: Awedoo Studio
+ * template: Cube - Creative Coming Soon Template
+ * version: v1.0
+ * url: http://themeforest.net/user/AwedooStudio
+*/
+
+/**** place custom style at this file ****/
+
+/* Material Colors - https://www.google.ru/design/spec/style/color.html#color-color-palette
+
+    Red         : #F44336;
+    Pink        : #E91E63;
+    Purple      : #9C27B0;
+    Deep Purple : #673AB7;
+    Indigo      : #3F51B5;
+    Blue        : #2196F3;
+    Light Blue  : #03A9F4;
+    Dark Blue   : #326394;
+    Cyan        : #00BCD4;
+    Teal        : #009688;
+    Green       : #4CAF50;
+    Light Green : #8BC34A;
+    Lime        : #CDDC39;
+    Yellow      : #FFEB3B;
+    Amber       : #FFC107;
+    Orange      : #FF9800;
+    Deep Orange : #FF5722;
+    Brown       : #795548;
+    Grey        : #9E9E9E;
+    Blue Grey   : #607D8B;
+
+*/
+
+/* Home */
+
+.side-front.side-color .btn-accent,
+.side-front.side-color .navigation ul > li.active a > span,
+.side-front.side-color .navigation ul > li.active a:after {
+    color: #fdef37;
+}
+
+.side-front.side-color .btn-accent > span,
+.side-front.side-color .btn-accent > i,
+.side-front.side-color .btn.btn-inverse:hover > span,
+.side-front.side-color .btn.btn-inverse:hover > i {
+    color: #ffffff;
+}
+
+.side-front.side-color .btn:hover > span,
+.side-front.side-color .btn:active > span,
+.side-front.side-color .btn:focus > span,
+.side-front.side-color .btn-inverse > span,
+.side-front.side-color .btn:hover > i,
+.side-front.side-color .btn:active > i,
+.side-front.side-color .btn:focus > i,
+.side-front.side-color .btn-inverse > i {
+    color: #000000;
+}
+
+/* Subscribe */
+
+.side-bottom.side-color .btn-accent,
+.side-bottom.side-color .navigation ul > li.active a > span,
+.side-bottom.side-color .navigation ul > li.active a:after {
+    color: #fdef37;
+}
+
+.side-bottom.side-color .btn-accent > span,
+.side-bottom.side-color .btn-accent > i,
+.side-bottom.side-color .btn.btn-inverse:hover > span,
+.side-bottom.side-color .btn.btn-inverse:hover > i {
+    color: #ffffff;
+}
+
+.side-bottom.side-color .btn:hover > span,
+.side-bottom.side-color .btn:active > span,
+.side-bottom.side-color .btn:focus > span,
+.side-bottom.side-color .btn-inverse > span,
+.side-bottom.side-color .btn:hover > i,
+.side-bottom.side-color .btn:active > i,
+.side-bottom.side-color .btn:focus > i,
+.side-bottom.side-color .btn-inverse > i {
+    color: #1D7ABC;
+}
+
+/* About */
+
+.side-back.side-color .btn-accent,
+.side-back.side-color .navigation ul > li.active a > span,
+.side-back.side-color .navigation ul > li.active a:after {
+    color: #fdef37;
+}
+
+.side-back.side-color .btn-accent > span,
+.side-back.side-color .btn-accent > i,
+.side-back.side-color .btn.btn-inverse:hover > span,
+.side-back.side-color .btn.btn-inverse:hover > i {
+    color: #ffffff;
+}
+
+.side-back.side-color .btn:hover > span,
+.side-back.side-color .btn:active > span,
+.side-back.side-color .btn:focus > span,
+.side-back.side-color .btn-inverse > span,
+.side-back.side-color .btn:hover > i,
+.side-back.side-color .btn:active > i,
+.side-back.side-color .btn:focus > i,
+.side-back.side-color .btn-inverse > i {
+    color: #D54C2C;
+}
+
+/* Contact */
+
+.side-top.side-color .btn-accent,
+.side-top.side-color .navigation ul > li.active a > span,
+.side-top.side-color .navigation ul > li.active a:after {
+    color: #fdef37;
+}
+
+.side-top.side-color .btn-accent > span,
+.side-top.side-color .btn-accent > i,
+.side-top.side-color .btn.btn-inverse:hover > span,
+.side-top.side-color .btn.btn-inverse:hover > i {
+    color: #ffffff;
+}
+
+.side-top.side-color .btn:hover > span,
+.side-top.side-color .btn:active > span,
+.side-top.side-color .btn:focus > span,
+.side-top.side-color .btn-inverse > span,
+.side-top.side-color .btn:hover > i,
+.side-top.side-color .btn:active > i,
+.side-top.side-color .btn:focus > i,
+.side-top.side-color .btn-inverse > i {
+    color: #873755;
+}
